@@ -1,0 +1,52 @@
+body {
+    background-color: #e2dfd3;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #519872;
+    border-width: 7px;
+    width: 80%;
+}
+
+h1 {
+    color: #eeeeee;
+    background: #519872;
+}
+
+h2 {
+    color: #519872;
+}
+
+h3 {
+    color: #519872;
+}
+
+h4 {
+    color: #519872;
+}
+
+img {
+    border-style: solid;
+    border-color: #382933;
+    border-width: 5px;
+    border-radius: 3px;
+}
+
+img:hover {
+    border-color: #519872;
+}
+
+
+/* ##################### Tag Selectors ################### */
+
+#heading {
+    color: #382933;
+}
+
+
+/* ##################### id Selectors ################### */
+
+
+/* id is unique  and class can be used multiple times */
